@@ -20,13 +20,13 @@ st.set_page_config(
     #initial_sidebar_state="expanded"   # Menú despliegue inicial, con 'expanded estará siempre abierto por defecto. Con "collapsed" cerrado
 )
 
-logo = "img/logo.png"
+logo = "Streamlitapp_Airbnb_SF/img/logo.png"
 
 
 
 
 #---------------------------- COSAS QUE SE VAN A USAR EN TODA LA APP ----------------------------#
-df = pd.read_csv("data/listings_preprocessed.csv")
+df = pd.read_csv("Streamlitapp_Airbnb_SF/data/listings_preprocessed.csv")
 # df = df.drop(columns=[''])
 
 
