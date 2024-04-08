@@ -146,7 +146,7 @@ with tab1:
         st.header("")
         st.header("")
         try:
-            with open('streamlitapp_Airbnb_SF/html/listings_by_neighbourhood.html', 'r', encoding='utf-8') as f:
+            with open('Streamlitapp_Airbnb_SF/html/listings_by_neighbourhood.html', 'r', encoding='utf-8') as f:
                 html_content = f.read()
                 components.html(html_content, height=430)
         except Exception as e:
@@ -162,7 +162,7 @@ with tab2:
     with col1_2:
         st.subheader("Types of property (TOP 10)")
         try:
-            with open('streamlitapp_Airbnb_SF/html/types_property_top10.html', 'r', encoding='utf-8') as f:
+            with open('Streamlitapp_Airbnb_SF/html/types_property_top10.html', 'r', encoding='utf-8') as f:
                 html_content = f.read()
                 components.html(html_content, height=420, width=800)
         except Exception as e:
