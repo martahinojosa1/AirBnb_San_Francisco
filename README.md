@@ -35,9 +35,10 @@ pandas , numpy , seaborn, plt, os, streamlit, folium, geopandas, matplotlib, mat
 - El precio medio por noche en la ciudad es de 185$ para el alojamiento completo y de 126’22$ para la habitación privada.
 
 
-## Aplicación en Vivo. ¿Quieres indagar por tu cuenta en los datos?
+## ¡Aplicación en vivo! 
+¿Quieres indagar por tu cuenta en los datos?
 
-¡Puedes probar la aplicación en vivo! Está alojada en Streamlit y puedes acceder a ella haciendo clic en el siguiente enlace:
+¡Puedes probarla ahora mismo y jugar con los datos, verás qué interesante! Está alojada en Streamlit y puedes acceder a ella haciendo clic en el siguiente enlace:
 https://airbnbsanfrancisco.streamlit.app/
 
 
