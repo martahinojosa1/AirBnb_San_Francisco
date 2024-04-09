@@ -8,7 +8,7 @@ En este análisis exploratorio se utilizó la base de datos de: https://insideai
 
 
 ## 🔍 Notebook utilizados:
-Carpeta 'notebooks'. Podrás visualizar el análisis completo y detallado, desde el preprocesamiento y limpieza de los datos, pasando por el análisis de cada variable y finalmente el análisis de la temática objetivo (propiedades y precios de la ciudad).
+Los encontrarás en la carpeta 'notebooks' de este repositorio. Podrás visualizar el análisis completo y detallado, desde el preprocesamiento y limpieza de los datos, pasando por el análisis de cada variable y finalmente el análisis de la temática objetivo (propiedades y precios de la ciudad).
 
 ## 🧪 Requisitos:
 pandas , numpy , seaborn, plt, os, streamlit, folium, geopandas, matplotlib, matplotlib-inline, plotly, plotly-express.
