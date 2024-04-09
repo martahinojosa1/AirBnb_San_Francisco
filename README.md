@@ -1,4 +1,4 @@
-# Proyecto de análisis - AirBnb en San Francisco (Properties & Prices)
+# Proyecto de análisis - AirBnb San Francisco (Properties & Prices)
 
 En este repositorio encontrarás un análisis de los datos sobre el tipo de listings/propiedades de alquiler vacacional y el precio (según barrio, tipo de alquiler, ...) en la ciudad de San Francisco (California). 
 
