@@ -30,8 +30,8 @@ pandas , numpy , seaborn, plt, os, streamlit, folium, geopandas, matplotlib, mat
 
 ## Conclusiones:
 
-- Los barrios con mayor número de listings son los que están en torno a ‘Downtown/Civic Center’ y la zona de costa oeste ‘Outer Sunset’.
-- Prácticamente todos los ‘listings’ de la ciudad son alquiler completo o habitación privada. Y dentro del alquiler completo, los más populares son los que tienen capacidad para 2 y después para 4 personas.
+- Los barrios con mayor número de 'listings' son los que están en torno a ‘Downtown/Civic Center’ y la zona de costa oeste de la ciudad (barrio ‘Outer Sunset’).
+- Prácticamente todos los 'listings' de la ciudad son alquiler completo o habitación privada. Y dentro del alquiler completo, los más populares son los que tienen capacidad para 2 y después para 4 personas.
 - El precio medio por noche en la ciudad es de 185$ para el alojamiento completo y de 126’22$ para la habitación privada.
 
 
