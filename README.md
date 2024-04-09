@@ -4,22 +4,29 @@ En este repositorio encontrarás un análisis de los datos sobre el tipo de list
 
 
 ## 🔍 Obtención de Datos:
+
 En este análisis exploratorio se utilizó la base de datos de: https://insideairbnb.com/get-the-data/
 
 
 ## 🔍 Notebook utilizados:
+
 Los encontrarás en la carpeta 'notebooks' de este repositorio. Podrás visualizar el análisis completo y detallado, desde el preprocesamiento y limpieza de los datos, pasando por el análisis de cada variable y finalmente el análisis de la temática objetivo (propiedades y precios de la ciudad).
 
+
 ## 🧪 Requisitos:
+
 pandas , numpy , seaborn, plt, os, streamlit, folium, geopandas, matplotlib, matplotlib-inline, plotly, plotly-express.
 
+
 ## 🕵️‍♂️ Estructura del proyecto. El proyecto está compuesto por:
+
 - Procesamiento y limpieza de datos.
 - Análisis Exploratorio de datos (EDA).
 - Análisis y visualización de tipos de propiedades/listings y precios en la ciudad.
-- Visualización de datos en Power Bi.
+- Visualización de datos en Power BI.
 - Desarrollo de App con Streamlit.
 - Creación de repositorio.
+
 
 ## Conclusiones:
 
