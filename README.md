@@ -3,6 +3,13 @@
 En este repositorio encontrarás un análisis de los datos sobre el tipo de listings/propiedades de alquiler vacacional y el precio (según barrio, tipo de alquiler y otras variables) en la ciudad de San Francisco (California). 
 
 
+## ¡Aplicación en vivo! 
+¿Quieres indagar por tu cuenta en los datos?
+
+¡Puedes probarla ahora mismo y jugar con los datos, verás qué interesante! Está alojada en Streamlit y puedes acceder a ella haciendo clic en el siguiente enlace:
+https://airbnbsanfrancisco.streamlit.app/
+
+
 ## 🔍 Obtención de Datos:
 
 En este análisis exploratorio se utilizó la base de datos de: https://insideairbnb.com/get-the-data/
@@ -33,13 +40,6 @@ pandas , numpy , seaborn, plt, os, streamlit, folium, geopandas, matplotlib, mat
 - Los barrios con mayor número de 'listings' son los que están en torno a ‘Downtown/Civic Center’ y la zona de costa oeste de la ciudad (barrio ‘Outer Sunset’).
 - Prácticamente todos los 'listings' de la ciudad son alquiler completo o habitación privada. Y dentro del alquiler completo, los más populares son los que tienen capacidad para 2 y después para 4 personas.
 - El precio medio por noche en la ciudad es de 185$ para el alojamiento completo y de 126’22$ para la habitación privada.
-
-
-## ¡Aplicación en vivo! 
-¿Quieres indagar por tu cuenta en los datos?
-
-¡Puedes probarla ahora mismo y jugar con los datos, verás qué interesante! Está alojada en Streamlit y puedes acceder a ella haciendo clic en el siguiente enlace:
-https://airbnbsanfrancisco.streamlit.app/
 
 
 
